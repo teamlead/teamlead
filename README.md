@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 My name's Anatolii
 
-<!--
-**teamlead/teamlead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer 🔹 Team Lead 🔹 Software Architect
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack (mostly)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+However, I'm also intensively exploring such topics like (among other things): 
+
+🔹 Kubernetes \
+🔹 Microservices \
+🔹 Machine Learning 
+
+## ✍ How to reach me 
+
+- 🗣 [Blog](https://teamlead.pro)
+- 📲 [Telegram](https://t.me/teamlead_pro)
+- 🔗 [Linkedin](https://www.linkedin.com/in/x25ru/)
+- 📫 [E-mail](mailto:hello@teamlead.pro)
