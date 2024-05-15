@@ -8,11 +8,16 @@ Java Developer 🔹 Team Lead 🔹 Software Architect
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Furthermore, I'm diving into subjects including: 
+Furthermore, I'm exploring a wide range of subjects, including:
 
-🔹 Kubernetes \
-🔹 Microservices \
-🔹 Machine Learning 
+🔹 Microservices, Modularity, and Distributed Systems \
+🔹 Algorithms, Data Structures, and Complexity Theory \
+🔹 Machine Learning, Artificial Intelligence, and Deep Learning
+
+## 🎖 My Leetcode Badges:
+
+[![50 days in 2024](https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png)](https://leetcode.com/u/teamlead/)
+[![100 days in 2024](https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png)](https://leetcode.com/u/teamlead/)
 
 ## ✍ How to reach me: 
 
