@@ -20,3 +20,11 @@ Furthermore, I'm diving into subjects including:
 - 📲 [Telegram](https://t.me/teamlead_pro)
 - 🔗 [Linkedin](https://www.linkedin.com/in/x25ru/)
 - 📫 [E-mail](mailto:hello@teamlead.pro)
+
+## 🧩 Hard Java Puzzlers
+
+[![Hard Java Puzzlers](https://teamlead.pro/java-puzzlers/puzzlers.png)](https://teamlead.pro/java-puzzlers/)
+
+Challenge your programming skills with my collection of hard Java puzzles. With topics ranging from concurrency to generics and exceptions, these puzzles will challenge even the most experienced Java developers.
+
+**Check it out**: [https://teamlead.pro/java-puzzlers/](https://teamlead.pro/java-puzzlers/)
