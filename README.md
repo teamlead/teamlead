@@ -14,17 +14,16 @@ Furthermore, I'm exploring a wide range of topics, including:
 🔹 Algorithms, Data Structures, and Complexity Theory \
 🔹 Machine Learning, Artificial Intelligence, and Deep Learning
 
-## 🎖 My Leetcode Badges:
-
-[![50 days in 2024](https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png)](https://leetcode.com/u/teamlead/)
-[![100 days in 2024](https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png)](https://leetcode.com/u/teamlead/)
-
 ## ✍ How to reach me: 
 
 - 🗣 [Blog](https://teamlead.pro)
 - 📲 [Telegram](https://t.me/teamlead_pro)
 - 🔗 [Linkedin](https://www.linkedin.com/in/x25ru/)
 - 📫 [E-mail](mailto:hello@teamlead.pro)
+
+## 🎖 My Leetcode Badges:
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50 days in 2024" width="100"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100 days in 2024" width="100"> <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" alt="Leetcode 75" width="100">
 
 ## 🧩 Hard Java Puzzlers
 
