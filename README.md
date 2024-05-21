@@ -23,7 +23,7 @@ Furthermore, I'm exploring a wide range of topics, including:
 
 ## 🎖 My Leetcode Badges:
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50 days in 2024" width="100"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100 days in 2024" width="100"> <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" alt="Leetcode 75" width="100">
+<a href="https://leetcode.com/teamlead"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50 days in 2024" width="100"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100 days in 2024" width="100"><img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" alt="Leetcode 75" width="100"></a>
 
 ## 🧩 Hard Java Puzzlers
 
