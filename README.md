@@ -23,7 +23,7 @@ Furthermore, I'm exploring a wide range of topics, including:
 
 ## 🎖 My Leetcode Badges:
 
-<a href="https://leetcode.com/teamlead"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" alt="200 days in 2024" width="75"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100 days in 2024" width="75"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50 days in 2024" width="75"><img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" alt="Leetcode 75" width="75"><img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="Top 100 Liked" width="75"><img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" alt="Top 100 Liked" width="75"></a>
+<a href="https://leetcode.com/teamlead"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" alt="200 days in 2024" width="75"><img src="https://assets.leetcode.com/static_assets/others/Binary_Search.png" alt="Binary Search" width="75"><img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" alt="Top 100 Liked" width="75"><img src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming.png" alt="Dynamic Programming" width="75"><img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="Top 100 Liked" width="75"><img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" alt="Leetcode 75" width="75"><img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top 50 SQL" width="75"></a>
 
 ## 🧩 Hard Java Puzzlers
 
